@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dibyajyoti Bhuyan</h1>
 <h3 align="center">A self-motivated individual with a knack for creative problem-solving and coding currently pursuing my studies with a passion for practical learning and hands-on experience in technical field.</h3>
 
+- 💬 Ask me about **MERN**
+
 - 📫 How to reach me **bhuyand143@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
