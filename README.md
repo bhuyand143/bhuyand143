@@ -18,8 +18,8 @@
 <h3 align="left">Github Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhuyand143&show_icons=true&locale=en&layout=compact" alt="bhuyand143" /></p>
 
-
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bhuyand143&show_icons=true&locale=en" alt="bhuyand143" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhuyand143&" alt="bhuyand143" /></p>
 
 
