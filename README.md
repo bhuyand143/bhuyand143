@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dibyajyoti </h1>
-<h3 align="center">A self-motivated individual with a knack for creative problem-solving and coding currently pursuing my studies with a passion for practical learning and hands-on experience in technical field.</h3>
+<h3 align="center">an ardent problem-solver with a passion for coding </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuyand143&label=Profile%20views&color=0e75b6&style=flat" alt="bhuyand143" /> </p>
 
 - 💬 Ask me about **MERN**
