@@ -2,7 +2,7 @@
 <h3 align="center"> A problem-solving enthusiast having  passion for coding </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuyand143&label=Profile%20views&color=0e75b6&style=flat" alt="bhuyand143" /> </p>
 
-- 👨‍💻 Explore my complete portfolio on <a href="https://dibyajyoti-portfolio.vercel.app/" target="_blank">dibyajyoti-portfolio.vercel.app</a>
+- 👨‍💻 Explore my portfolio on <a href="https://dibyajyoti-portfolio.vercel.app/" target="_blank">dibyajyoti-portfolio.vercel.app</a>
 
 - 💬 Ask me about **MERN,C++** 
 
